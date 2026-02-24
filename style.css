@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, purple, blue);
+    color: white;
+    padding: 50px;
+    margin: 0;
+}
+
+#weather-container {
+    background: rgba(255, 255, 255, 0.2);
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    backdrop-filter: blur(10px);
+}
